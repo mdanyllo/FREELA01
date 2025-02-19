@@ -7,11 +7,11 @@
 }
 
 :root {
-  --dark-color: #ce7382;
+  --dark-color: #b266ff;
 }
 
 body {
-  background-color: #6a0dad;
+  background: linear-gradient(135deg, #6a0dad, #b266ff);
   display: flex;
   align-items: flex-end;
   justify-content: center;
